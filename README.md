@@ -5,7 +5,7 @@
 https://drive.google.com/drive/folders/1kPNT-Zp83-y1dez-2e0t9Bz-hBPWI5x6?usp=sharing
 
 1. Для начала, установите Android Studio (AS)
-2. Разаривируйте файл в папке "Archive"
+2. Разархивируйте файл в папке "Archive"
 3. Откройте AS и запустите приложение
 4. Запустите и у вас есть приложение для рисования
 
